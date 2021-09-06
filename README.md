@@ -34,7 +34,7 @@ You can read my reason why i build it on figma community.
 
   - [desktop-admin-app-macos](https://github.com/sanengineer/ecommerce-admin-macos-swiftui)
 
-  - [mobile-user-app-for-ios-14-or-latest](https://github.com/sanengineer/ecommerce-with-swift-ui)
+  - [mobile-user-app-for-ios-14-or-latest](https://github.com/sanengineer/ecommerce-app-with-swift-ui)
 
 ## Backend Stack
 
