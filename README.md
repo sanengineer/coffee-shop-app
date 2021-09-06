@@ -22,7 +22,7 @@ You can read my reason why i build it on figma community.
 
 - ⚛️ React Native (Javascript)
 
-  link: [mobile-user-app](https://github.com/sanengineer/ecommerce-with-react-native)
+  link: [mobile-user-app-for-cross-platform](https://github.com/sanengineer/ecommerce-with-react-native)
 
 - ⚡️ ElectronJS (Javascript)
 
@@ -30,7 +30,11 @@ You can read my reason why i build it on figma community.
 
 - 🐦 SwiftUI (Swift)
 
-  link: [desktop-admin-app-macos](https://github.com/sanengineer/ecommerce-admin-macos-swiftui)
+  link:
+
+  - [desktop-admin-app-macos](https://github.com/sanengineer/ecommerce-admin-macos-swiftui)
+
+  - [mobile-user-app-for-ios-14-or-latest](https://github.com/sanengineer/ecommerce-with-swift-ui)
 
 ## Backend Stack
 
