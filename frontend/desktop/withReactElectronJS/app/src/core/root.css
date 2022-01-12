@@ -1,0 +1,118 @@
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0px;
+  height: -webkit-fill-available;
+}
+
+#target {
+  height: -webkit-fill-available;
+}
+
+.main-grid {
+  display: grid;
+  grid-template-columns: 11.25rem 1fr;
+}
+
+.top-bar {
+  height: 40px;
+  display: flex;
+  width: 100%;
+  -webkit-app-region: drag;
+}
+
+.main-screen {
+  width: 100%;
+  display: block;
+}
+
+.nav-side-container {
+  position: relative;
+  /* display: block; */
+  /* padding: 10px; */
+  /* height: 100vh; */
+  /* background-color: blue; */
+  border-right: 1px solid #00000017;
+  /* justify-content: space-around; */
+  overflow: hidden;
+  /* -webkit-app-region: drag; */
+}
+
+.nav-side {
+  position: -webkit-sticky;
+  justify-content: space-around;
+  position: fixed;
+  height: 100vh;
+  padding: 10px;
+  display: block;
+}
+.nav-link-container {
+  position: absolute;
+  bottom: 30px;
+}
+
+.nav-link {
+  width: 150px;
+}
+
+a.icon-title-wrapper-navlink {
+  display: flex;
+  align-items: center;
+  color: #cecece !important;
+  justify-content: space-between;
+  padding: 10px 15px;
+}
+
+a.icon-title-wrapper-navlink:hover {
+  border-radius: 10px;
+  background-color: #f3f3f3;
+  color: #000 !important;
+}
+
+.icon-nav-link svg {
+  color: #747474;
+}
+
+.icon-nav-link {
+  display: flex;
+}
+
+.title-nav-link {
+  width: 74px;
+}
+
+.text-nav-link {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.side-nav-top-part {
+  padding-top: calc(1vh + 10px);
+}
+
+.your-brand-container {
+  display: block;
+  height: 100px;
+  -webkit-app-region: drag;
+}
+
+.logo-container {
+  margin: auto;
+  width: 60px;
+}
+
+.title-brand-container {
+  text-align: center;
+  color: #000;
+}
+
+.title-brand {
+  font-size: 12px;
+  font-weight: 800;
+}
+
+button {
+  -webkit-app-region: no-drag;
+}

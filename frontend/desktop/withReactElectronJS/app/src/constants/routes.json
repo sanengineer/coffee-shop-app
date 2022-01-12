@@ -1,0 +1,10 @@
+{
+  "LOGIN": "/login",
+  "DASHBOARD": "/",
+  "ORDERS": "/orders",
+  "CUSTOMERS": "/customers",
+  "PRODUCTS": "/products",
+  "CATEGORIES": "/categories",
+  "PROFILE": "/profile",
+  "SETTINGS": "/settings"
+}

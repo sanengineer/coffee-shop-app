@@ -1,0 +1,22 @@
+input {
+  width: 100%;
+  border: unset;
+}
+
+input:focus {
+  outline: transparent;
+}
+
+.search_text {
+  /* font-weight: 600; */
+  padding: 4px 10px;
+  align-items: center;
+  display: flex;
+  /* font-size: 12px; */
+}
+
+.search_text_input {
+  font-weight: 600;
+  font-size: 12px;
+  padding: 2px 10px;
+}

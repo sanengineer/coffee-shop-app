@@ -1,0 +1,24 @@
+.right_part {
+  background-color: #f3f3f3;
+  /* display: flex; */
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+}
+
+.search_bar_container {
+  /* display: block; */
+  /* background: red; */
+  position: relative;
+  width: 380px;
+  height: max-content;
+  /* width: 100%; */
+}
+
+.search_bar {
+  display: block;
+  margin: 4px 6px;
+  border-radius: 8px;
+  background-color: #fff;
+  border-color: 1px solid #a5a5a5;
+}

@@ -1,0 +1,38 @@
+.card_body {
+  /* background-color: cadetblue; */
+  height: 120px;
+  width: 164px;
+  padding: 13px;
+  border-radius: 8px;
+}
+
+.card_row {
+  display: flex;
+}
+
+.card_justify_content_space_between {
+  justify-content: space-between;
+}
+
+.card_justify_content_flex_end {
+  justify-content: flex-end;
+}
+
+.card_column {
+  display: block;
+}
+
+.card_h1 {
+  font-size: 36px;
+  font-weight: 600;
+}
+
+.card_h2 {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.card_h4 {
+  font-size: 10px;
+  font-weight: 500;
+}

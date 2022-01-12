@@ -1,0 +1,20 @@
+.container {
+  background-color: chartreuse;
+  margin: 20px;
+  display: block;
+
+  /* scroll-behavior: smooth; */
+  /* height: 100vh; */
+}
+
+.section {
+  display: flex;
+}
+
+.spacer_x {
+  width: 20px;
+}
+
+.spacer_y {
+  height: 20px;
+}
